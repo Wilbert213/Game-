@@ -5,10 +5,10 @@
   text-align: center;
   width: 100%;
 }
-#topNav > ul > li {
+#topNav li {
   display: inline;
 }
-#topNav > ul > li > a
+#topNav a
 {
   color: white;
   display: inline-block;
@@ -19,6 +19,6 @@
   text-decoration: none;
   transition: color 0.3s ease-in;
 }
-#topNav > ul > li > a:hover {
+#topNav a:hover {
   color: lime;
 }
